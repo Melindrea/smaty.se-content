@@ -1,0 +1,1 @@
+# smaty.se-content
