@@ -1,0 +1,15 @@
+---
+shortTitle: Contact
+pageTitle: Contact me
+title: My contact information
+---
+
+Whether you're looking to compliment me and offer me representation and/or a
+publishing contract and/or a movie contract, or point out the grammatical error
+on a subpage, or anything in between, I would love to hear from you. You can ...
+
+* Follow me on [Twitter](https://twitter.com/melindrea)
+* Find my work on [Wattpad](http://www.wattpad.com/user/MarieHogebrandt)
+* Find my work on [Tablo](https://tablo.io/melindrea)
+* E-mail me on author[at]smaty[dot]se
+* Use the [contact form on my personal page](http://mariehogebrandt.se/contact)
