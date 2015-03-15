@@ -3,7 +3,9 @@ shortTitle: Bóthildr
 pageTitle: Bóthildr Gudhleksdotter
 title: Bóthildr of the spear
 hasSubmenu: true
-layout: character
+layout: person
+key: bothildr
+parent: characters
 ---
 
 > “We will find him.” Kóri ran his tongue over his dry lips, admiring his warlike

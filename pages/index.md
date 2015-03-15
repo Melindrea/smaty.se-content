@@ -6,9 +6,12 @@ layout: index
 
 This page is about a world that exists in my imagination, at least
 mainly. It’s called *Småty* since that’s a dialectal word from Bohuslän, Sweden,
-for the various supernatural critters in the world.
+for the various supernatural critters in the world. If you are interested in
+Viking historical fiction and contemporary magical realism inspired by Scandinavian
+folklore (including the Norse gods), this is a good place to be.
 
-[The stories][stories] are a mix of historical and contemporary, something in
+[The stories][stories] are a mix of historical (mainly the iron age, both
+before the so-called Viking age and during) and contemporary, something in
 the magical realism line. They are all set in Sweden, generally with
 connection to Bohuslän, which in old times was known as either *Alfheim*
 or *Ranrike*. I prefer Ranrike, so that is the term used in my world.
