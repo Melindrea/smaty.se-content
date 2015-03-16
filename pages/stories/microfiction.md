@@ -16,6 +16,8 @@ your own ideas.
 Here's a curated list of mine.
 </div>
 
+<blockquote class="twitter-tweet" lang="en"><p>Fingers bled and horsehair danced. Would the fiddle&#39;s song bring victory ... or insanity? <a href="https://twitter.com/hashtag/fp?src=hash">#fp</a></p>&mdash; Marie Hogebrandt (@melindrea) <a href="https://twitter.com/melindrea/status/576277659782668288">March 13, 2015</a></blockquote>
+
 <blockquote class="twitter-tweet" lang="en"><p>The frailty of the human condition had never been more apparent than staring at her body; it lay twisted, bloody, broken by his feet <a href="https://twitter.com/hashtag/fp?src=hash">#fp</a></p>&mdash; Marie Hogebrandt (@melindrea) <a href="https://twitter.com/melindrea/status/573772720640516096">March 6, 2015</a></blockquote>
 
 <blockquote class="twitter-tweet" lang="en"><p>Rest wrapped the shards of her mind in cotton gauze. Yesterday’s memories flitted at the corners, their jagged edges not cutting through <a href="https://twitter.com/hashtag/FP?src=hash">#FP</a></p>&mdash; Marie Hogebrandt (@melindrea) <a href="https://twitter.com/melindrea/status/573758711388336129">March 6, 2015</a></blockquote>
