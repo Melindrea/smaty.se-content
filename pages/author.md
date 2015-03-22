@@ -2,6 +2,7 @@
 shortTitle: Bio
 pageTitle: Marie Hogebrandt
 title: About the author
+hasTwitter: true
 ---
 
 ## About me
@@ -23,4 +24,3 @@ I ...
 <blockquote class="twitter-tweet" lang="en"><p>Read a wonderful short story by <a href="https://twitter.com/melindrea">@melindrea</a> this morning. Her use of scent and landscape is incredible.</p>&mdash; Angelina Williamson (@Angelinawrites) <a href="https://twitter.com/Angelinawrites/status/567405164957413376">February 16, 2015</a></blockquote>
 
 <blockquote class="twitter-tweet" lang="en"><p>Just for fun edited fellow <a href="https://twitter.com/hashtag/Vikings?src=hash">#Vikings</a> writer&#39;s short story and really loved it - both the story and the work as such! Good luck to <a href="https://twitter.com/melindrea">@melindrea</a>!</p>&mdash; Sarah Dahl (@sarahdahl13) <a href="https://twitter.com/sarahdahl13/status/565603781938020352">February 11, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

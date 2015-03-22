@@ -2,6 +2,7 @@
 shortTitle: Home
 pageTitle: "So, what's this about?"
 layout: index
+hasTwitter: true
 ---
 
 This page is about a world that exists in my imagination, at least

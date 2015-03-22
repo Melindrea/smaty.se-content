@@ -4,9 +4,8 @@ pageTitle: Microfiction
 title: Microfiction (< 140 characters)
 parent: stories
 hasSubmenu: true
+hasTwitter: true
 ---
-
-<div class="text-content">
 
 Every Friday, the hashtag #FP springs back into life. It's
 microfiction (less than 140 characters, or technically 137 counting
@@ -14,7 +13,8 @@ the hashtag and space), following either a weekly theme, or just
 your own ideas.
 
 Here's a curated list of mine.
-</div>
+
+<blockquote class="twitter-tweet" lang="en"><p>The night-in-day brought beasts from time&#39;s shadows into the world: slithering, sneaking, oozing, easing. The sun never returned <a href="https://twitter.com/hashtag/FP?src=hash">#FP</a></p>&mdash; Marie Hogebrandt (@melindrea) <a href="https://twitter.com/melindrea/status/579013340980187136">March 20, 2015</a></blockquote>
 
 <blockquote class="twitter-tweet" lang="en"><p>Fingers bled and horsehair danced. Would the fiddle&#39;s song bring victory ... or insanity? <a href="https://twitter.com/hashtag/fp?src=hash">#fp</a></p>&mdash; Marie Hogebrandt (@melindrea) <a href="https://twitter.com/melindrea/status/576277659782668288">March 13, 2015</a></blockquote>
 
@@ -53,4 +53,3 @@ Here's a curated list of mine.
 <blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/hashtag/FP?src=hash">#FP</a> He had eyes the shade of the river, though the grief cut deep as blood. The tones of the fiddle drew her near and into forgetfulness.</p>&mdash; Marie Hogebrandt (@melindrea) <a href="https://twitter.com/melindrea/status/444572995479425024">March 14, 2014</a></blockquote>
 
 <blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/hashtag/FP?src=hash">#FP</a> The only sound that broke the silence of the night was water dragging her down under the surface, stealing her final breaths.</p>&mdash; Marie Hogebrandt (@melindrea) <a href="https://twitter.com/melindrea/status/444571243313119232">March 14, 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
