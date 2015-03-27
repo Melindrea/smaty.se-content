@@ -2,7 +2,7 @@
 shortTitle: Bio
 pageTitle: Marie Hogebrandt
 title: About the author
-hasTwitter: true
+hasTwitter: author
 ---
 
 ## About me

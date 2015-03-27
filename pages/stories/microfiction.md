@@ -14,6 +14,8 @@ your own ideas.
 
 Here's a curated list of mine.
 
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p>From the depths of my mind panick gripped my body in painful spasms spelling out a message: Stop being a &#39;good girl only&#39;; think of you <a href="https://twitter.com/hashtag/FP?src=hash">#FP</a></p>&mdash; Marie Hogebrandt (@melindrea) <a href="https://twitter.com/melindrea/status/581458526909911040">March 27, 2015</a></blockquote>
+
 <blockquote class="twitter-tweet" lang="en"><p>The night-in-day brought beasts from time&#39;s shadows into the world: slithering, sneaking, oozing, easing. The sun never returned <a href="https://twitter.com/hashtag/FP?src=hash">#FP</a></p>&mdash; Marie Hogebrandt (@melindrea) <a href="https://twitter.com/melindrea/status/579013340980187136">March 20, 2015</a></blockquote>
 
 <blockquote class="twitter-tweet" lang="en"><p>Fingers bled and horsehair danced. Would the fiddle&#39;s song bring victory ... or insanity? <a href="https://twitter.com/hashtag/fp?src=hash">#fp</a></p>&mdash; Marie Hogebrandt (@melindrea) <a href="https://twitter.com/melindrea/status/576277659782668288">March 13, 2015</a></blockquote>
