@@ -12,10 +12,12 @@ Be warned that the characters profile are likely to contain spoilers.
 
 ## Profiles
 
-* Bóthildr Gudhleksdotter--a maiden seeking retribution in war
-* Katja Bradley--a fashion designer whose love drove her into servitude as a
+* [Bóthildr Gudhleksdotter](/characters/bothildr-gudhleksdotter)--a maiden seeking retribution in war
+* [Helga Yngvesdotter](/characters/helga-yngvesdotter)--an orphan seeking power
+against the religious fanatics who slayed her father
+* [Katja Bradley](/characters/katja-bradley)--a fashion designer whose love drove her into servitude as a
     Valkyria
-* Mio Singh--a trans person whose pain awakens the ghosts of a killer
+* [Mio Singh](/characters/mio-singh)--a trans person whose pain awakens the ghosts of a killer
     and her child-victims
 
 ## Next up
