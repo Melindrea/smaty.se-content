@@ -4,6 +4,16 @@ pageTitle: Excerpts from current works
 title: WIP Teasers
 ---
 
+## The Angel Maker
+** 2/4, 2015**
+
+“No, not quite … I mean, I’m more a guy than I ever was a woman, but … He-pronouns are okay, but I prefer they. Non-binary, I guess.” Her easy acceptance lifts a weight from my shoulders, even as it leaves me feeling like someone took a sandbag to my head.
+
+** 1/4, 2015**
+
+Her constant forays into saying things she shouldn’t had lightened my mood considerably. After all, she was at least apologising. “Thanks. By the way, whose is that cat outside? The tabby?”
+
+
 ## Awaiting Valhalla
 
 **22/3, 2015**
