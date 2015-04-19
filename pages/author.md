@@ -1,7 +1,7 @@
 ---
 shortTitle: Bio
-pageTitle: Marie Hogebrandt
-title: About the author
+pageTitle: Marie Hogebrandt - Author
+title: About Marie Hogebrandt
 hasTwitter: author
 ---
 

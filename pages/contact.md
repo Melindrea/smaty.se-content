@@ -13,3 +13,9 @@ on a subpage, or anything in between, I would love to hear from you. You can ...
 * Find my work on [Tablo](https://tablo.io/melindrea)
 * E-mail me on author[at]smaty[dot]se
 * Use the [contact form on my personal page](http://mariehogebrandt.se/contact)
+
+## Public PGP key
+[Key](https://keybase.io/melindrea/key.asc)
+
+**Fingerprint**: F355 7836 9E71 10DB B0BA 25EA 48BE 226F 7DE0 2745
+
