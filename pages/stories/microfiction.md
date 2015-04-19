@@ -5,7 +5,7 @@ title: Microfiction (< 140 characters)
 parent: stories
 hasSubmenu: true
 hasTwitter: true
-excerpt: "Each story is less than 140 characters long, and explores how much of a twist you can create in that short a space. Most are 3rd person point-of-view, but a few are written in 1st person."
+excerpt: "Each story is less than 140 characters long, and explores how much of a twist you can create in that short a space. Most are 3rd person point-of-view."
 ---
 
 Every Friday, the hashtag #FP springs back into life. It's

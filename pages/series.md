@@ -2,7 +2,7 @@
 shortTitle: Series
 pageTitle: How things are connected
 title: Series
-excerpt: "All of the stories are connected, and while some of those connections are spoilerific, some are only important in a way to feel the world come alive before you."
+excerpt: "All of the stories are connected, and while some of those connections are spoilerific, some are only important in a way to feel the world come alive."
 ---
 
 *Småty* is a term for all mystical beings and creatures in Scandinavian

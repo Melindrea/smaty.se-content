@@ -2,7 +2,7 @@
 shortTitle: Contact
 pageTitle: Contact me
 title: My contact information
-excerpt: "Contact information for Marie Hogebrandt, author of the Småty series."
+excerpt: "Contact information for Marie Hogebrandt, author of the Småty series. It includes links to my personal page, my Public PGP key and places to find me."
 ---
 
 Whether you're looking to compliment me and offer me representation and/or a

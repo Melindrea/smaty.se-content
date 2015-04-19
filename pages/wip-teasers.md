@@ -2,7 +2,7 @@
 shortTitle: WIP Teasers
 pageTitle: Excerpts from current works
 title: WIP Teasers
-excerpt: "Find your paragraph-length excerpts from works in progress here, and get a feel for my style, both themes and subject matter"
+excerpt: "Find your paragraph-length excerpts from works in progress here, and get a feel for my style, both themes and subject matter. The date gives a nice range."
 ---
 
 ## Why did it have to be snakes?

@@ -3,7 +3,7 @@ shortTitle: Stories
 pageTitle: A weave of stories
 title: Stories
 hasSubmenu: true
-excerpt: "Find summaries of the different stories/categories, so you can browse further and find your exact match"
+excerpt: "Find summaries of the different stories in the Småty world, so you can browse further and find your type of story, be they longer or shorter."
 ---
 
 While they all fit within the same world and same timeline, the themes
