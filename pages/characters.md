@@ -22,6 +22,7 @@ against the religious fanatics who slayed her father
     overcome her fear of snakes, or forever lose the woman she loves
 * [Mio Singh](/characters/mio-singh)--a trans person whose pain awakens the ghosts of a killer
     and her child-victims
+* [Runfrid Hildrisdotter](/characters/runfrid-hildrisdotter)--a grieving widow struggling with mental wounds, the pressure of honour, and a scheming brother-in-law intent on marrying her
 * [Vanja Hulth](/characters/vanja-hulth)--a trans person looking for themselves
 and finding a curse of damnation hidden in the sweet sound of a fiddle
 
