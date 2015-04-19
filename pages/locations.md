@@ -2,6 +2,7 @@
 shortTitle: Locations
 pageTitle: Details on where
 title: Locations
+excerpt: "Description of places and settings, both in the historical sense and contemporary."
 ---
 
 ## Bohuslän

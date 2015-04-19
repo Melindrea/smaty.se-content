@@ -3,6 +3,7 @@ shortTitle: Characters
 pageTitle: Among living and dead
 title: Characters of Småty
 hasSubmenu: true
+excerpt: "Introduction to characters that build up the present and past of the Småty series."
 ---
 
 When making characters, the key thing is to make them come to live. If you

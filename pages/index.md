@@ -3,6 +3,7 @@ shortTitle: Home
 pageTitle: "So, what's this about?"
 layout: index
 hasTwitter: true
+excerpt: "Småty is a term for supernatural critters, and if you're interested in magical realism or Scandinavial folklore, this is a good place to start."
 ---
 
 This page is about a world that exists in my imagination, at least
@@ -19,7 +20,7 @@ or *Ranrike*. I prefer Ranrike, so that is the term used in my world.
 
 Check out [the characters][characters] (which includes interviews and bios), [the
 locations][locations] and their real-world inspiration, or [the stories][stories], which has excerpts of longer works as well as both
-microfiction ( up to 140 characters) and flash fiction (up to about 1000
+microfiction (up to 140 characters) and flash fiction (up to about 1000
 words).
 
 [stories]: /stories

@@ -3,6 +3,7 @@ shortTitle: Bio
 pageTitle: Marie Hogebrandt - Author
 title: About Marie Hogebrandt
 hasTwitter: author
+excerpt: "Mini-biography about Marie Hogebrandt, author of the Småty series."
 ---
 
 ## About me
