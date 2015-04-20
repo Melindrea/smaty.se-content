@@ -5,6 +5,11 @@ title: WIP Teasers
 excerpt: "Find your paragraph-length excerpts from works in progress here, and get a feel for my style, both themes and subject matter. The date gives a nice range."
 ---
 
+## Forgive and forget
+
+### 20/5, 2015
+Despite. The thought bit into Runfrid as she rose again, hoping she could wash the redness away before anyone else saw her. She stalked into the low house, her head bowed, leaving Esti by Mór’s rune stone and memorial. The only one they had, as his body had not yet washed ashore.
+
 ## Why did it have to be snakes?
 
 ### 18/5, 2015
