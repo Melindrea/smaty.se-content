@@ -2,6 +2,7 @@
 shortTitle: Locations
 pageTitle: Details on where
 title: Locations
+hasSubmenu: true
 excerpt: "Description of places and settings, both in the historical sense and contemporary. Ranrike is the old name for Bohuslän, a province of Sweden."
 ---
 

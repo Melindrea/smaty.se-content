@@ -5,10 +5,16 @@ title: WIP Teasers
 excerpt: "Find your paragraph-length excerpts from works in progress here, and get a feel for my style, both themes and subject matter. The date gives a nice range."
 ---
 
+## The Dream World
+
+### 21/5, 2015
+“Hello.” Phoenix’s gaze ran over the class. Their voice held the same timbre as it had in the dream. “As your teacher said, I’m Phoenix. In case you’re wondering, I’m genderfluid, which means I’m fluctuating between male and female. To be safe, use the pronoun ‘they’ if you want to talk about me.”
+
+
 ## Forgive and forget
 
 ### 20/5, 2015
-Despite. The thought bit into Runfrid as she rose again, hoping she could wash the redness away before anyone else saw her. She stalked into the low house, her head bowed, leaving Esti by Mór’s rune stone and memorial. The only one they had, as his body had not yet washed ashore.
+“That is enough, Tora.” Runfrid did her best to portray sternness, but the thrall’s support had been invaluable when she came to Mór’s household, just after her fourteenth birthday. Though, not Mór’s at that time, his father Bjalfi had ruled the household with an iron fist. Runfrid suppressed a shudder as she gathered her skirts. She had kept her secret delight over Bjalfi not returning from the Viking raids close to her heart.
 
 ## Why did it have to be snakes?
 
