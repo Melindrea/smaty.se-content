@@ -5,6 +5,15 @@ title: WIP Teasers
 excerpt: "Find your paragraph-length excerpts from works in progress here, and get a feel for my style, both themes and subject matter. The date gives a nice range."
 ---
 
+## Honeysuckle
+
+### 29/5, 2015
+“I know, but …” Vieno played with the edge of her hoodie. “They told me what a *nice* sweater I had, and how I was lucky to find *my size* in the thrift store.” Tears trickled down her cheeks, and she ballooned in size until everything was fat and disgusting.
+
+### 28/5, 2015
+With the motor turned off and the tiller locked in place, Vieno consulted the chart and set the course. She scrambled to raise the sails as waves rocked them gently, water splashing the sides. The wind caught the sails, flapping them wildly, but soon she sat back without sudden movements, enjoying the hot sun on her face and the breeze moving them forward. Her hand rested on the tiller, adjusting the course minutely to follow the breeze. There were worse ways to spend a day of cutting class. Even if it was because of those twin hellcat “cousins” of hers.
+
+
 ## The Dream World
 
 ### 21/5, 2015
