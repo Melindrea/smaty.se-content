@@ -15,7 +15,11 @@ your own ideas.
 
 Here's a curated list of mine.
 
-<blockquote class="twitter-tweet" data-partner="tweetdeck"><p>From the depths of my mind panick gripped my body in painful spasms spelling out a message: Stop being a &#39;good girl only&#39;; think of you <a href="https://twitter.com/hashtag/FP?src=hash">#FP</a></p>&mdash; Marie Hogebrandt (@melindrea) <a href="https://twitter.com/melindrea/status/581458526909911040">March 27, 2015</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The honey suckle vines grew and grew, from no where and every where. The castle walls cracked and stones came tumbling down <a href="https://twitter.com/hashtag/FP?src=hash">#FP</a></p>&mdash; Marie Hogebrandt (@melindrea) <a href="https://twitter.com/melindrea/status/594138464599330817">May 1, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The cracks in my mind healed as I stared at the scene I&#39;d caused. Crimson retribution stained the white marble <a href="https://twitter.com/hashtag/FP?src=hash">#FP</a></p>&mdash; Marie Hogebrandt (@melindrea) <a href="https://twitter.com/melindrea/status/594124457452658689">May 1, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet"><p>From the depths of my mind panick gripped my body in painful spasms spelling out a message: Stop being a &#39;good girl only&#39;; think of you <a href="https://twitter.com/hashtag/FP?src=hash">#FP</a></p>&mdash; Marie Hogebrandt (@melindrea) <a href="https://twitter.com/melindrea/status/581458526909911040">March 27, 2015</a></blockquote>
 
 <blockquote class="twitter-tweet" lang="en"><p>The night-in-day brought beasts from time&#39;s shadows into the world: slithering, sneaking, oozing, easing. The sun never returned <a href="https://twitter.com/hashtag/FP?src=hash">#FP</a></p>&mdash; Marie Hogebrandt (@melindrea) <a href="https://twitter.com/melindrea/status/579013340980187136">March 20, 2015</a></blockquote>
 

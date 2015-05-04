@@ -18,6 +18,8 @@ I ...
 
 ## Others say ...
 
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr"><a href="https://twitter.com/melindrea">@melindrea</a> Freakin&#39; brilliant, as always! :)</p>&mdash; FridayPhrases (@FridayPhrases) <a href="https://twitter.com/FridayPhrases/status/594126489718755328">May 1, 2015</a></blockquote>
+
 <blockquote class="twitter-tweet" lang="en"><p>Nothing better than a little <a href="https://twitter.com/hashtag/Viking?src=hash">#Viking</a> era fiction to while away a rainy afternoon. Props to <a href="https://twitter.com/melindrea">@melindrea</a> for a rather excellent battle scene!</p>&mdash; Eremi Amabebe (@Eremipagamo) <a href="https://twitter.com/Eremipagamo/status/570985695671652353">February 26, 2015</a></blockquote>
 
 <blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/melindrea">@melindrea</a> Oh, please don&#39;t ever stop writing these kind of <a href="https://twitter.com/hashtag/FP?src=hash">#FP</a>&#39;s. I love them so much.</p>&mdash; FridayPhrases (@FridayPhrases) <a href="https://twitter.com/FridayPhrases/status/568677092285681664">February 20, 2015</a></blockquote>
