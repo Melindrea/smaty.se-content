@@ -5,42 +5,67 @@ title: WIP Teasers
 excerpt: "Find your paragraph-length excerpts from works in progress here, and get a feel for my style, both themes and subject matter. The date gives a nice range."
 ---
 
+## Shards of the Eld
+### 17/5, 2015
+
+The witch’s bastard is beautiful, with a proud neck that refuses to bend, and golden locks hidden under a lace cap. She stares ahead as she follows her bound mother. She is above suspicion. I ensured that. Only I can sense the power inherited from mother to daughter. Only I am entitled to it. Under her calm surface, hatred radiates. Good. I will enjoy crushing her. Unlike her mother on the wagon—old, wrinkled and grey—she is young and unspoiled, with hair glittering in the sunlight. On my word, their neighbours turned against them. Does she know who betrayed her?
+
+### 16/5, 2015
+
+The noises waned and waxed, as the furniture of the coffee house passed her in slow motion. Sia’s arm rested around her, and they were walking? Exhaustion flushed her body, her breathing heavy and laboured. Not even the memories of her strong-armed grandfather, or the scent of honey and hay exorcised the pure terror haunting her body. Not even the scent of cinnamon buns—triggering memories of the old farm kitchen and her smiling grandmother—helped.
+
+
+### 11/5, 2015
+
+“No, I just realised …” She wet her lips. “Look, I’m a student. I can’t afford that kind of restaurants, or the kind of clothes.” She shrugged, trying to pull away from him. “I’m sorry, but I’m more of a pizza kind of girl, I guess.”
+
+### 9/5, 2015
+
+“So you’re tomcatting around her friend?” Helga tilted her head, her features serious, but her eyes dancing with amusement. He had to thank Sia for making his grandmother happier than she’d been in years.
+
+### 7/5, 2015
+
+Fumes from cars mixed with perfume and urine as she ran towards the subway. She knew exactly where everyone around her were, their footsteps echoing in her mind as she weaved through the crowd. Her heart pounded in her chest and every breath was drawn from far away.
+
+### 6/5, 2015
+“And that decrepit old castle had everything: books, ghosts, and a long history for him to dive into and never return from.” Andrej shook his head, hugging his grandmother lightly. “Take care.”
+
 ## Honeysuckle
 
-### 29/5, 2015
+### 29/4, 2015
 “I know, but …” Vieno played with the edge of her hoodie. “They told me what a *nice* sweater I had, and how I was lucky to find *my size* in the thrift store.” Tears trickled down her cheeks, and she ballooned in size until everything was fat and disgusting.
 
-### 28/5, 2015
+### 28/4, 2015
 With the motor turned off and the tiller locked in place, Vieno consulted the chart and set the course. She scrambled to raise the sails as waves rocked them gently, water splashing the sides. The wind caught the sails, flapping them wildly, but soon she sat back without sudden movements, enjoying the hot sun on her face and the breeze moving them forward. Her hand rested on the tiller, adjusting the course minutely to follow the breeze. There were worse ways to spend a day of cutting class. Even if it was because of those twin hellcat “cousins” of hers.
 
 
 ## The Dream World
 
-### 21/5, 2015
+### 21/4, 2015
 “Hello.” Phoenix’s gaze ran over the class. Their voice held the same timbre as it had in the dream. “As your teacher said, I’m Phoenix. In case you’re wondering, I’m genderfluid, which means I’m fluctuating between male and female. To be safe, use the pronoun ‘they’ if you want to talk about me.”
 
 
 ## Forgive and forget
 
-### 20/5, 2015
+### 20/4, 2015
 “That is enough, Tora.” Runfrid did her best to portray sternness, but the thrall’s support had been invaluable when she came to Mór’s household, just after her fourteenth birthday. Though, not Mór’s at that time, his father Bjalfi had ruled the household with an iron fist. Runfrid suppressed a shudder as she gathered her skirts. She had kept her secret delight over Bjalfi not returning from the Viking raids close to her heart.
 
 ## Why did it have to be snakes?
 
-### 18/5, 2015
+### 18/4, 2015
 “Meya? Catch.” Linda grabbed Silsi and threw her at the woman. Silsi hissed, burying her fangs in Meya’s arm. Meya screamed, shaking to get the snake off, dropping Sofi’s leash.
 
 
-### 17/5, 2015
+### 17/4, 2015
 Linda’s nightmares coiled around her, with slithering and rustling scales. Looking down at herself, instead of her legs, she had a snake’s body starting from her hips. She couldn’t run, and the other serpents bowed to her, whispering and hissing their allegiance.
 
 
-### 16/5, 2015
+### 16/4, 2015
 “Linda.” The voice was familiar as well, and Linda’s head jerked up to meet Sofi’s dark brown eyes. “I was hoping you’d call me, but I didn’t want to wait, so I called your mum again.” She held out a tanned hand. “How are you?”
 
 ## The fiddler
 
-### 16/5, 2015
+### 16/4, 2015
 Vanja’s light steps led them down the steep riverbank, but Näcken was too focused on his melody to notice. Not until Vanja’s violin joined his did he look up. Tears streamed down his cheeks as the solo became a duet of emotion. Vanja played it by ear, allowing themselves to be engulfed in the music. It possessed every fibre in their body, turning blood and muscles to playable strings.
 
 ### 15/4, 2015
