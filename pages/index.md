@@ -1,6 +1,7 @@
 ---
 shortTitle: Home
 pageTitle: "So, what's this about?"
+title: "So, what's this about?"
 layout: index
 hasTwitter: true
 tweetables:

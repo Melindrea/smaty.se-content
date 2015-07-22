@@ -18,8 +18,6 @@ I ...
 
 ## Others say ...
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Wow <a href="https://twitter.com/Melindrea">@Melindrea</a> , loving your story! It&#39;s beautiful. I love the pronoun thing, and it makes me want to get my fiddle out. 😊</p>&mdash; Martha Dunlop (@MarthaDunlop) <a href="https://twitter.com/MarthaDunlop/status/606530350282637314">June 4, 2015</a></blockquote>
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Halfway through The Angelmaker and it&#39;s blowing me away <a href="https://twitter.com/melindrea">@melindrea</a>. Been waiting weeks to read it! Worth it!</p>&mdash; The Sock Thief (@Dammit__Woman) <a href="https://twitter.com/Dammit__Woman/status/618714943215550464">July 8, 2015</a></blockquote>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Wow <a href="https://twitter.com/Melindra">@Melindra</a> , loving your story! It&#39;s beautiful. I love the pronoun thing, and it makes me want to get my fiddle out. 😊</p>&mdash; Martha Dunlop (@MarthaDunlop) <a href="https://twitter.com/MarthaDunlop/status/606530350282637314">June 4, 2015</a></blockquote>
