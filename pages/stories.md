@@ -9,6 +9,10 @@ excerpt: "Find summaries of the different stories in the Småty world, so you ca
 While they all fit within the same world and same timeline, the themes
 of each story is different, and what they explore is different.
 
+## [Flashfiction](/stories/flashfiction)
+
+Stories that are up to 1000 words.
+
 ## [Microfiction](/stories/microfiction)
 
 Each story is less than 140 characters long, and explores how much

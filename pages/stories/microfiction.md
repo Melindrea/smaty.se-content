@@ -13,7 +13,21 @@ microfiction (less than 140 characters, or technically 137 counting
 the hashtag and space), following either a weekly theme, or just
 your own ideas.
 
-Here's a curated list of mine.
+Here's a list of mine.
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Kinky hair streaked with water, black eyes streaked with hate. Her father&#39;s sword lay in her hand, and retribution tainted her mind <a href="https://twitter.com/hashtag/FP?src=hash">#FP</a></p>&mdash; Marie Hogebrandt (@melindrea) <a href="https://twitter.com/melindrea/status/622029267262701570">July 17, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">With his final breath he cursed his brother. His blood called out for retribution. Loki answered with undying death <a href="https://twitter.com/hashtag/FP?src=hash">#FP</a></p>&mdash; Marie Hogebrandt (@melindrea) <a href="https://twitter.com/melindrea/status/614381935616466944">June 26, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The stone read &#39;Beloved Father &amp; Husband&#39;. She clutched the rose, tears down her cheeks. Dead petals fell; 2 weeks, 3 days of freedom <a href="https://twitter.com/hashtag/fp?src=hash">#fp</a></p>&mdash; Marie Hogebrandt (@melindrea) <a href="https://twitter.com/melindrea/status/611886083706617856">June 19, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">As the engine&#39;s stalled and the plane shook, she laughed with tears streaming down her cheeks. She&#39;d almost missed last call <a href="https://twitter.com/hashtag/fp?src=hash">#fp</a></p>&mdash; Marie Hogebrandt (@melindrea) <a href="https://twitter.com/melindrea/status/609298341705445376">June 12, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The call did not go through. She stared at the phone until it slipped out of her hands; bloodstained slipped into a pool of blood <a href="https://twitter.com/hashtag/fp?src=hash">#fp</a></p>&mdash; Marie Hogebrandt (@melindrea) <a href="https://twitter.com/melindrea/status/609230159900749828">June 12, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Fate and magic danced when the dragon was born under stars. Destiny split, and through magic, magic was born <a href="https://twitter.com/hashtag/FP?src=hash">#FP</a></p>&mdash; Marie Hogebrandt (@melindrea) <a href="https://twitter.com/melindrea/status/604370365796601856">May 29, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Save it for when I come back,&quot; he&#39;d said. I stare down into the abyss. Diamonds and white gold bounce against rocks on the way down <a href="https://twitter.com/hashtag/FP?src=hash">#FP</a></p>&mdash; Marie Hogebrandt (@melindrea) <a href="https://twitter.com/melindrea/status/599244844196728832">May 15, 2015</a></blockquote>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The honey suckle vines grew and grew, from no where and every where. The castle walls cracked and stones came tumbling down <a href="https://twitter.com/hashtag/FP?src=hash">#FP</a></p>&mdash; Marie Hogebrandt (@melindrea) <a href="https://twitter.com/melindrea/status/594138464599330817">May 1, 2015</a></blockquote>
 

@@ -13,6 +13,7 @@ Be warned that the characters profile are likely to contain spoilers.
 
 ## Profiles
 
+* [Alexis Falk](/characters/alexis-falk)--a teenager struggling to differentiate between hallucinations and ghosts
 * [Bóthildr Gudhleksdotter](/characters/bothildr-gudhleksdotter)--a maiden seeking retribution in war
 * [Helga Yngvesdotter](/characters/helga-yngvesdotter)--an orphan seeking power
 against the religious fanatics who slayed her father
@@ -20,15 +21,14 @@ against the religious fanatics who slayed her father
     Valkyria
 * [Linda Wijk](/characters/linda-wijk)--mathematically inclined student has to
     overcome her fear of snakes, or forever lose the woman she loves
-* [Mio Singh](/characters/mio-singh)--a trans person whose pain awakens the ghosts of a killer
-    and her child-victims
 * [Runfrid Hildrisdotter](/characters/runfrid-hildrisdotter)--a grieving widow struggling with mental wounds, the pressure of honour, and a scheming brother-in-law intent on marrying her
+* [Satinder Singh](/characters/satinder-singh)--a trans person whose pain awakens the ghosts of a killer
+    and her child-victims (originally named Mio Singh)
 * [Vanja Hulth](/characters/vanja-hulth)--a trans person looking for themselves
 and finding a curse of damnation hidden in the sweet sound of a fiddle
+* [Yngve Jarl](/characters/yngve-jarl)--a trans boy whose summer fling will change his world
 
-## Next up
-In order, but exact timing on when it goes live is undecided.
-
+## Later additions
 1. Malbrecht mac Coluim--a warrior lost in time and place who failed to save his
     charge once, but this time it's his love on the line
 2. Belinda Eriksson--a traumatised seer whose abilities can only blossom if she
