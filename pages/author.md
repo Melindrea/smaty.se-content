@@ -4,6 +4,11 @@ pageTitle: Antonius M. Hogebrandt - Author
 title: About Antonius M. Hogebrandt
 hasTwitter: author
 excerpt: "Antonius M. Hogebrandt, author of the Småty series, a Scandinavian Folklore weave of loosely connected stories in past and present."
+tweetables:
+    - "Find out more about me as an author, and what nice things people say"
+    - "Who am I? Well, that's never an easy question that has an easy answer"
+facebookables:
+    - "Find out more about me as an author"
 ---
 
 ## About me
@@ -15,6 +20,10 @@ I ...
 * solve problems by throwing code at them
 * would love to live on an island on the west coast ... assuming it has internet
 * have a significant other & and a cat
+
+## Interviews
+
+* 2015-07-31 on [Asexual Artists](http://asexualartists.tumblr.com/post/125537331622/interview-antonius-marie)
 
 ## Others say ...
 

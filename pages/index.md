@@ -9,9 +9,9 @@ tweetables:
     - "Not everything is as it seems. Magic exists in the shadows …"
     - "Norns weave destiny; I weave stories. Mystic threads from then to now"
 facebookables:
-    - "You like my writing? Sign up for my monthly newsletter!"
-    - "Not everything is as it seems. Magic exists in the shadows …"
-    - "Norns weave destiny; I weave stories. Mystic threads from then to now"
+    - "Sign up for my monthly newsletter!"
+    - "Norns weave destiny; I weave stories"
+    - "Get excerpts, character profiles & more"
 excerpt: "Småty is a term for supernatural critters, and if you're interested in magical realism or Scandinavial folklore, this is a good place to start."
 ---
 

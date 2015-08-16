@@ -23,7 +23,7 @@ goodreads:
 published:
     links:
         -
-            href: http://www.amazon.com/Summer-Nights-Anthology-Noveling-Adventure-ebook/dp/B00ZUY7HFC/ref=sr_1_2?s=digital-text&ie=UTF8&qid=1434801795&sr=1-2&keywords=summer+nights
+            href: http://www.amazon.com/gp/product/B00ZUY7HFC/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00ZUY7HFC&linkCode=as2&tag=smatintheland-20&linkId=CSLYLWZ3225K3U6A
             at: Amazon.com
         -
             href: http://www.barnesandnoble.com/w/books/1122166338?ean=2940152150896&itm=1&usri=2940152150896

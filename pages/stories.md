@@ -4,6 +4,10 @@ pageTitle: A weave of stories
 title: Stories
 hasSubmenu: true
 excerpt: "Find summaries of the different stories in the Småty world, so you can browse further and find your type of story, be they longer or shorter."
+tweetables:
+    - "Find new favourites and old goodies on the story index"
+facebookables:
+    - "Find new & old favourite stories"
 ---
 
 While they all fit within the same world and same timeline, the themes

@@ -4,10 +4,14 @@ pageTitle: Among living and dead
 title: Characters of Småty
 hasSubmenu: true
 excerpt: "Meet the ancient and contemporary characters who's actions, successes and losses forms the story's heart, along with ups and downs."
+tweetables:
+    - "Find all of my character profiles on one page for your perusal"
+facebookables:
+    - "Find all of my character profiles on one page"
 ---
 
-When making characters, the key thing is to make them come to live. If you
-don't know them well enough, you can't write them well enough.
+When making characters, the key thing is to make them come to life. If you
+don't *know* them well enough, you can't *write* them well enough.
 
 Be warned that the characters profile are likely to contain spoilers.
 

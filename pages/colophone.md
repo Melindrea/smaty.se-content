@@ -48,6 +48,7 @@ better my craft with their analysis.
 * [Melanie Francisco](http://www.writehobby.blogspot.se/)
 * [Angelina Williamson](http://www.betterthanbullets.com/)
 * [Rayne Hall](https://sites.google.com/site/raynehallsdarkfantasyfiction/)
+* [Shaz Milligan](http://www.laceydearie.com/)
 
 ## Other Acknowledgments
 * Jonathan Buck, for continuous support in both writing, coding and design
