@@ -7,6 +7,9 @@ tweetables:
     - "What are Småty, and why did I name the series that?"
 facebookables:
     - "Do you want to know about Småty?"
+pageImage:
+    url: series.jpg
+    alt: Greby Burial Field
 ---
 
 *Småty* is a term for all mystical beings and creatures in Scandinavian

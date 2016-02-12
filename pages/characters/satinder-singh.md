@@ -1,6 +1,6 @@
 ---
 shortTitle: Satinder
-pageTitle: Satinder Singh
+pageTitle: Satinder Kaur Singh
 title: Satinder the refugee
 hasSubmenu: true
 layout: person

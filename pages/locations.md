@@ -8,6 +8,9 @@ tweetables:
     - "Brief history and geography lesson on Bohuslän, aka Ranrike"
 facebookables:
     - "History and geography of a story's home"
+pageImage:
+    url: locations.jpg
+    alt: Bared bedrock
 ---
 
 ## Bohuslän

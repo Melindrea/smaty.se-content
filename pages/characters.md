@@ -8,6 +8,9 @@ tweetables:
     - "Find all of my character profiles on one page for your perusal"
 facebookables:
     - "Find all of my character profiles on one page"
+pageImage:
+    url: characters.jpg
+    alt: Rainbow against clouda
 ---
 
 When making characters, the key thing is to make them come to life. If you

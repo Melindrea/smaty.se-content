@@ -21,9 +21,12 @@ I ...
 * would love to live on an island on the west coast ... assuming it has internet
 * have a significant other & and a cat
 
-## Interviews
+## Guest posts & Interviews
 
-* 2015-07-31 on [Asexual Artists](http://asexualartists.tumblr.com/post/125537331622/interview-antonius-marie)
+* [Jill Marcotte, October 2015](https://jillmarcotte.wordpress.com/2015/10/19/matter-of-factly-fictional/)
+* [Friday Phrases, August 2015](http://www.friday-phrases.com/a-monday-with-melindrea/)
+* [Asexual Artists, July 2015](http://asexualartists.tumblr.com/post/125537331622/interview-antonius-marie)
+
 
 ## Others say ...
 

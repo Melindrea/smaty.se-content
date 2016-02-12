@@ -1,27 +1,40 @@
-**2nd draft**
+Waves crash against the cliffs outside, a roaring barrier between me and a world that has forsaken me. I clutch the cold edges of the sink. Iron and bile flood my mouth. Tears streak my cheeks, and sweat sticks tufts of blond hair stick to my forehead. Another restless night; is there an end? I don’t know.
 
-The dream-child’s crying fades, and the crone’s cackle transforms into the seagulls’ cruel mockery. Another night without peace. Outside the window waves crash against the cliffs, isolating me from the world that has forsaken me. Nausea fills the desolate pit of my stomach, and I fight back tears. Do I still believe that there is something at the other end? I don’t know.
+My hands grip the porcelain until they are as white as it is. The mirror is covered with a black towel; I don’t want to risk meeting the eyes. Of the stranger that is wearing my face.
 
-Iron and bile rise in my throat. I stumble out of the bed on trembling legs, shuffling to the bathroom.
+"You are a freak." Henrik’s voice drips with contempt, appearing behind me. Maybe by the door?
 
-*You’re worthless, everyone thinks so*. Henrik’s voice drips with thinly veiled contempt. Holding the cold porcelain edges of the sink I retch, my cheeks tear-streaked and my blond locks clinging to my sweaty forehead. *No one except me thinks you deserve to be loved. I’m your only friend.* I hadn’t seen Henrik for many years, but his voice haunts me. And it’s right.
+My every breath is shallow. Short. Searing. I fight the traitor in me and reach for the white box and the sheet within. When I punch out a white pill, my trembling fingers drop it on the floor. It bounce, bounce, bounces behind the cabinet. My stomach contracts as I sink down on my knees. A vein on my temple pulsates painfully.
 
-My hands tremble, and I stare down. Though the mirror is covered with dark cloth, I don’t want to risk it. Risk meeting the eyes of the stranger that is I.
+“Can’t I just have one day?” I whisper into the silence. “Just one good day, without nightmares and without—”
 
-*You are a freak.*
+"No. You know what you did." He seems closer, his voice growing stronger.
 
-My breaths are short and laboured as I fight against the panic and the traitor in me.
+I swallow the pill and close my eyes. “It wasn’t my fault. I couldn’t …”
 
-Heartbeat.
+"Of course you couldn’t." His voice looms over me, and I wrap my arms around my body. "You never could. Or did."
 
-The first rays of the sun flicker through the bathroom window. I push myself to stand. Exhaustion floods my tense body. The snug tank-top binder reforms my upper body, and I can breathe again. The feminine stranger has transformed into me. Without bothering with shoes I pad outside in boxers and the top.
+Dim sun-rays flicker through the bathroom window. Exhaustion floods my senses.
 
-My lungs fill with salty air, and the August chill flow over my skin, numbing it. Under my feet the stones are rough with patches of grass. I rest against the log wall of my cottage, enjoying the sensation of goose bumps spreading along my bare skin.
+“Leave me alone.” I grip the sink and pull myself back up. “Please, leave me alone.” Staring away from the mirror I grab the binder and tighten it around my chest. I want the lumps to go away, and the hips to slim into nothingness. With the tank-top and loose cotton shorts I can breathe again. The feminine stranger has transformed into me.
 
-Frozen but content I stumble inside. My phone blinks on the counter. A new message. No, I don’t want to think of Gabriel. My body call for coffee, but instead I sit down on the mat in front of the cold hearth.
+"You can’t ignore me." Henrik’s voice grows weaker as my beating heart slows. I pad outside on bare feet.
 
-With my feet tugged underneath me, I close my eyes and force deep breaths: in through the nose, hold, out through the mouth slowly. I want to focus on the Khanda, symbol of my faith, but my mind roils with the crying of children and the laughter of a crone. Protect the innocent? How could I, when I couldn’t even bear a child to term?
+With each breath, my lungs fill with salty air. The September chill caresses me, and the chilly bedrock bites into my soles despite patches of wilting grass. I sink down and rest my head back against the greying logs of my cottage. Goosebumps spread along my bare skin. Numbing my body numbs my mind.
 
-Serenity slips out of my grip. Meditation didn’t help this time either.
+The mist hangs low, with the sun reflecting in morning dew. A sudden wind tears through the leaves, and I choke on the stench of death. Every hair on my arms stand on end, and malevolence drowns my skin. It feels like someone, or something, is watching me. Seagulls cry and laugh in the distance.
 
+I rush inside to get away, but the oily sense of evil clings to me.
+
+ My phone blinks on the counter, with a new message, but instead of dealing with that, I move to the mat in front of the hearth.
+
+ With feet tucked underneath me, I close my eyes and force deep breaths. In through the nose, hold, out through the mouth slowly. After five breaths I open my eyes again and stare at the fireplace’s scorched bricks.
+
+ My mouth chants Waheguru—Wonderful Teacher, creator of all—but my mind roils with memories of the crying of children and the laughter of a crone.
+
+ Protect the innocent? How can I, when I couldn’t even carry a child to term?
+
+Serenity slips out of my grip.
+
+Again.
 

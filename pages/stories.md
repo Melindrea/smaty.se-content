@@ -8,6 +8,9 @@ tweetables:
     - "Find new favourites and old goodies on the story index"
 facebookables:
     - "Find new & old favourite stories"
+pageImage:
+    url: stories.jpg
+    alt: Coloured pencils and highlighters
 ---
 
 While they all fit within the same world and same timeline, the themes
